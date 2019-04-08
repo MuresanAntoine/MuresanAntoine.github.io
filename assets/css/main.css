@@ -1926,7 +1926,7 @@ input, select, textarea {
 			input[type="radio"] + label:before {
 				background: #fafafa;
 				border-radius: 5px;
-				border: solid 2px #e4e4e4;
+				border: solid 2px #5f80ecee;
 				content: '';
 				display: inline-block;
 				height: 1.65em;
@@ -2726,7 +2726,7 @@ input, select, textarea {
 			}
 
 			#header > header p {
-				color: #d2f2e9;
+				color: #c2c8ff;
 				font-style: italic;
 				margin: 1em 0 0 0;
 			}
@@ -2747,7 +2747,7 @@ input, select, textarea {
 			}
 
 				#header > footer .icons li a {
-					color: #b7eadc;
+					color: #1c2ecee1;
 				}
 
 		#header > nav {
