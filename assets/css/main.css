@@ -37,6 +37,12 @@ ol, ul {
 	list-style: none;
 }
 
+.icone {
+	margin: 3px;
+	font-size: 25px; 
+	color: #5c7bcf;
+}
+
 blockquote, q {
 	quotes: none;
 }
@@ -2764,8 +2770,8 @@ input, select, textarea {
 			}
 
 				#header > nav ul li {
-					border-top: solid 2px #5c7bcf;
 					display: block;
+					border-top: solid 2px #5c7bcf;
 					padding: 0;
 				}
 
@@ -2780,11 +2786,6 @@ input, select, textarea {
 						padding: 0.85em 0;
 						text-decoration: none;
 					}
-
-						#header > nav ul li a.active {
-							background: #fff;
-							color: #4a61caef !important;
-						}
 
 					#header > nav ul li:first-child {
 						border-top: 0;
